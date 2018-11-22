@@ -14,9 +14,15 @@ h1 {
 .wrapper {
   background-color: #eee8d5;
 }
-.id {
+#facts, #contents, #favs, #types {
   color: #93a1a1;
 }
 .dfn {
   background-color: #b58900;
+}
+.wrapper >.dfn {
+  color: #fff;
+}
+.a {
+  background-color: #719e07;
 }
