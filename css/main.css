@@ -12,5 +12,11 @@ h1 {
   text-transform: uppercase;
 }
 .wrapper {
-  background-color: #eee8d5
+  background-color: #eee8d5;
+}
+.id {
+  color: #93a1a1;
+}
+.dfn {
+  background-color: #b58900;
 }
